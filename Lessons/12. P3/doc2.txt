@@ -1,0 +1,4 @@
+Country 	 Violent-Crimes	 Property-Crimes
+Canada	1098.0	3244.76
+USA	398.5	1950.2
+Mexico	413.57	1425.98
